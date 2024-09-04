@@ -1,0 +1,92 @@
+
+html {
+    background-image: url(https://i.pinimg.com/736x/cd/7b/cf/cd7bcffc3293d0e61e8ec0ccbdff22a6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+body {
+
+    width: 95%;
+    background-color: rgba(105, 101, 101, 0.805);
+    margin: 20px;
+    
+
+}
+
+
+
+nav {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gI17ltUoTVbw0BHXKLv-PwbvtHQVvPgcVXcZTDaUBMHB_-59C3yNGuwBbzLLV3fo7OQ&usqp=CAU);
+    padding-bottom: 45px;
+    width: 100%;
+    
+    
+
+}
+nav ul {
+
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    opacity: 100%;
+}
+
+nav ul li {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: yellow;
+    padding: 150px;
+    justify-content: space-between 100px;
+    font-size: 40px;
+}
+.A1 {
+    background-color: rgba(50, 47, 47, 0.493);
+    width: 100%;
+    display: flex;
+    
+}
+.section{
+    font-family: sans-serif;
+    border-bottom: 1px solid #f30000;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    width: 94%;
+    
+}
+
+.tabela{
+    width: 25%;
+    margin: 15px;
+    margin-bottom: 30px;
+    background-color: rgba(226, 213, 213, 0.458);
+}
+.conteudo{
+    width: 50%;
+    padding-left: 8%;
+    padding-bottom: 30px;
+}
+.section1{
+    font-family: sans-serif;
+    border-bottom: 1px solid #f30000;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    padding-top: 30px;
+    width: 94%;
+}
+
+.conteudo img{
+    padding-left: 11px;
+    padding-right: 11px;
+}
+ .conteudo h3{
+    font-size: 17px;
+ }
